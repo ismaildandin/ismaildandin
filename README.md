@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Nafisa!
+## 👋 Hello, I'm Ismail!
 #### About Me 
 #### I'm a student pursuing degree @Abdul Kalam college | Gadag, India
 
