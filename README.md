@@ -1,5 +1,10 @@
 ## 👋 Hello, I'm Ismail!
-#### About Me 
+#### About Me  
+<img
+            src="https://ninjasfiles.s3.amazonaws.com/0000000000001394.png" width="50" height="50"
+            alt="coding ninjas logo" 
+  />
+
 #### I'm a student pursuing degree @Abdul Kalam college | Gadag, India
 
   https://classroom.codingninjas.com/app/classroom
